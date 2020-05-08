@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TemplateTaskCSharp
 {
-    class Program
+    class Program //second branch
     {
         static void Main(string[] args)
         {
